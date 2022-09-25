@@ -1,0 +1,15 @@
+/Users/janjagodzinski/Desktop/C#/Giraffe/bin/Debug/net6.0/Giraffe
+/Users/janjagodzinski/Desktop/C#/Giraffe/bin/Debug/net6.0/Giraffe.deps.json
+/Users/janjagodzinski/Desktop/C#/Giraffe/bin/Debug/net6.0/Giraffe.runtimeconfig.json
+/Users/janjagodzinski/Desktop/C#/Giraffe/bin/Debug/net6.0/Giraffe.dll
+/Users/janjagodzinski/Desktop/C#/Giraffe/bin/Debug/net6.0/Giraffe.pdb
+/Users/janjagodzinski/Desktop/C#/Giraffe/obj/Debug/net6.0/Giraffe.csproj.AssemblyReference.cache
+/Users/janjagodzinski/Desktop/C#/Giraffe/obj/Debug/net6.0/Giraffe.GeneratedMSBuildEditorConfig.editorconfig
+/Users/janjagodzinski/Desktop/C#/Giraffe/obj/Debug/net6.0/Giraffe.AssemblyInfoInputs.cache
+/Users/janjagodzinski/Desktop/C#/Giraffe/obj/Debug/net6.0/Giraffe.AssemblyInfo.cs
+/Users/janjagodzinski/Desktop/C#/Giraffe/obj/Debug/net6.0/Giraffe.csproj.CoreCompileInputs.cache
+/Users/janjagodzinski/Desktop/C#/Giraffe/obj/Debug/net6.0/Giraffe.dll
+/Users/janjagodzinski/Desktop/C#/Giraffe/obj/Debug/net6.0/refint/Giraffe.dll
+/Users/janjagodzinski/Desktop/C#/Giraffe/obj/Debug/net6.0/Giraffe.pdb
+/Users/janjagodzinski/Desktop/C#/Giraffe/obj/Debug/net6.0/Giraffe.genruntimeconfig.cache
+/Users/janjagodzinski/Desktop/C#/Giraffe/obj/Debug/net6.0/ref/Giraffe.dll
