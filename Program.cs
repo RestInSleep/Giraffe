@@ -18,6 +18,9 @@ namespace Giraffe
 
             Console.WriteLine($"The price is {a*b*priceForSqF}");
             Console.WriteLine("HOORAY");
+            Console.WriteLine("baby giraffe!");
+            
+            
 
            
             }
