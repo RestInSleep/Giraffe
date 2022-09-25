@@ -17,7 +17,9 @@ namespace Giraffe
              decimal b = decimal.Parse(Console.ReadLine());
 
             Console.WriteLine($"The price is {a*b*priceForSqF}");
+            Console.WriteLine("HOORAY");
 
+           
             }
 
 
